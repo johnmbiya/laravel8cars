@@ -9,14 +9,13 @@
 
 ## Laravel 8 CRUD
 
-Simple exemple on how to create a CRUD application with Laravel 8
+Un exemple simple pour créer une application CRUD avec Laravel 8
 
-I have used an exemple on cars with car name and price.
 
-## Tutoriel Originaly posted on 
+## Trouvez le tutotiel complet sur :
 
 [https://www.letecode.com/tutoriel-laravel-8-crud-inserer-lire-modifier-et-supprimer](https://www.letecode.com/tutoriel-laravel-8-crud-inserer-lire-modifier-et-supprimer)
 
-## You want to support Me ?
+## Buy Me a coffee
 
 Find my all links here : [https://letecode.com/u/jcmbiya](https://letecode.com/u/jcmbiya)
