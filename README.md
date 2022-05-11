@@ -18,4 +18,4 @@ Un exemple simple pour créer une application CRUD avec Laravel 8
 
 ## Buy Me a coffee
 
-Find my all links here : [https://letecode.com/u/jcmbiya](https://letecode.com/u/jcmbiya)
+Find all posts here : [https://letecode.com/johnmbiya](https://letecode.com/johnmbiya)
